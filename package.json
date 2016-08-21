@@ -1,0 +1,19 @@
+{
+  "name": "log4js",
+  "version": "1.0.0",
+  "description": "log4js test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log",
+    "log4js",
+    "node"
+  ],
+  "author": "acrens@163.com",
+  "license": "MIT",
+  "devDependencies": {
+    "log4js": "^0.6.38"
+  }
+}
